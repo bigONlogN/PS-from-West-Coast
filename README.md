@@ -1,4 +1,4 @@
-## LeetCode Problem Packages
+# LeetCode Problem Packages
 ### Blind 75
 * [Origin](https://www.teamblind.com/post/new-year-gift-curated-list-of-top-75-leetcode-questions-to-save-your-time-oam1oreu)
 * [LeetCode list](https://leetcode.com/problem-list/oizxjoit/)
@@ -12,6 +12,6 @@
 ### Top Interview Questions
 * [Origin](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
 
-## Algorithm
+# Algorithm
 ### DP
 * https://www.notion.so/Knapsack-2beb86f0634a80349e5ce664931782cb
